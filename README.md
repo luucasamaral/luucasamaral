@@ -2,7 +2,7 @@
 
 - 🌱  Me aprofundando em PY, Shell e NodeJS;
 - 💬  Programação, e games;
-- 📖  Sempre buscando aprender mais sobre o mundo da programção 💻
+- 📖  Sempre buscando aprender mais sobre o mundo da programação 💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luucasamaral&theme=tokyonight&layout=compact)
 
