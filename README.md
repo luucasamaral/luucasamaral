@@ -1,7 +1,7 @@
-### HI ! Meu nome é Lucas, desenvolvedor JS e poeta nas horas vagas 👋
+### HI ! Meu nome é Lucas, desenvolvedor PY e gamer nas horas vagas 👋
 
-- 🌱  Me aprofundando em TS, React e NodeJS;
-- 💬  Animes, literatura e games;
+- 🌱  Me aprofundando em PY, Shell e NodeJS;
+- 💬  Programação, e games;
 - 📖  Sempre buscando aprender mais sobre o mundo da programção 💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luucasamaral&theme=tokyonight&layout=compact)
