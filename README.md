@@ -1,7 +1,6 @@
 ### HI ! Meu nome é Lucas, desenvolvedor PY e gamer nas horas vagas 👋
 
 - 🌱  Me aprofundando em PY, Shell e NodeJS;
-- 💬  Programação e games;
 - 📖  Sempre buscando aprender mais sobre o mundo da programação 💻
 - 💼 Supervisor de Backoffice e Gestor de NOC pela @Megatech
 
