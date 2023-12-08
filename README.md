@@ -3,6 +3,7 @@
 - 🌱  Me aprofundando em PY, Shell e NodeJS;
 - 💬  Programação e games;
 - 📖  Sempre buscando aprender mais sobre o mundo da programação 💻
+- 💼 Supervisor de Backoffice e Gestor de NOC pela @Megatech
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luucasamaral&theme=tokyonight&layout=compact)
 
